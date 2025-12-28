@@ -8,7 +8,7 @@ The program GUI contains three scenarios:
 
 # Additional implementations
 To realize the scenarios, additional features are implemented:
-- Simple matrix class, with concatenation and static methods for getting identity, hadamard matrices, kronecher product calculation
+- Simple matrix class, with concatenation and static methods for getting identity, hadamard matrices, Kronecker product calculation
 - ASCII to binary conversion and vice versa
 - BMP to binary conversion that splits the BMP byte array to preserve image header data
 - Bit vector class that wraps native Java BitSet to track length
